@@ -26,7 +26,7 @@ print("""
 #############
 
 
-ID='1821633392'
+ID='1346823622'
 token ='1806649080:AAFm6VdpWvxM1_1X2Htc4VIHbEPqF7hM80Y'
 
 bot = telebot.TeleBot(token)
