@@ -44,8 +44,8 @@ def start(message):
         bot.send_message(sudo, text='Hi boss\n\n'
                          , parse_mode='markdown', reply_markup=markup_inline)
 
-    bot.send_message(message.chat.id, text='*Hi (: 🤍*\n\n'
-                                           f'Send Message :'
+    bot.send_message(message.chat.id, text='*اهلا بك (: 🤍*\n\n'
+                                           f'أرسل رسالتك :'
                      , parse_mode='markdown')
 
 
